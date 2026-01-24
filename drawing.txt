@@ -1,0 +1,117 @@
+penup
+goto, -280, 140, 2, black
+pendown
+goto, 280, 140, 2, black
+goto, 280, -155, 2, black
+goto, -280, -155, 2, black
+goto, -280, 140, 2, black
+penup
+beginfill, #0d5eafff
+goto, -280, 140, 1, #0d5eafff
+pendown
+goto, 280, 140, 1, #0d5eafff
+goto, 280, 107, 1, #0d5eafff
+goto, -280, 107, 1, #0d5eafff
+goto, -280, 140, 1, #0d5eafff
+endfill
+penup
+beginfill, #FFFFFF
+goto, -280, 107, 1, #FFFFFF
+pendown
+goto, 280, 107, 1, #FFFFFF
+goto, 280, 74, 1, #FFFFFF
+goto, -280, 74, 1, #FFFFFF
+goto, -280, 107, 1, #FFFFFF
+endfill
+penup
+beginfill, #0d5eafff
+goto, -280, 74, 1, #0d5eafff
+pendown
+goto, 280, 74, 1, #0d5eafff
+goto, 280, 41, 1, #0d5eafff
+goto, -280, 41, 1, #0d5eafff
+goto, -280, 74, 1, #0d5eafff
+endfill
+penup
+beginfill, #FFFFFF
+goto, -280, 41, 1, #FFFFFF
+pendown
+goto, 280, 41, 1, #FFFFFF
+goto, 280, 8, 1, #FFFFFF
+goto, -280, 8, 1, #FFFFFF
+goto, -280, 41, 1, #FFFFFF
+endfill
+penup
+beginfill, #0D5EAF
+goto, -280, 8, 1, #0D5EAF
+pendown
+goto, 280, 8, 1, #0D5EAF
+goto, 280, -25, 1, #0D5EAF
+goto, -280, -25, 1, #0D5EAF
+goto, -280, 8, 1, #0D5EAF
+endfill
+penup
+beginfill, #FFFFFF
+goto, -280, -25, 1, #FFFFFF
+pendown
+goto, 280, -25, 1, #FFFFFF
+goto, 280, -58, 1, #FFFFFF
+goto, -280, -58, 1, #FFFFFF
+goto, -280, -25, 1, #FFFFFF
+endfill
+penup
+beginfill, #0d5eafff
+goto, -280, -58, 1, #0d5eafff
+pendown
+goto, 280, -58, 1, #0d5eafff
+goto, 280, -91, 1, #0d5eafff
+goto, -280, -91, 1, #0d5eafff
+goto, -280, -58, 1, #0d5eafff
+endfill
+penup
+beginfill, #FFFFFF
+goto, -280, -91, 1, #FFFFFF
+pendown
+goto, 280, -91, 1, #FFFFFF
+goto, 280, -124, 1, #FFFFFF
+goto, -280, -124, 1, #FFFFFF
+goto, -280, -91, 1, #FFFFFF
+endfill
+penup
+beginfill, #0d5eafff
+goto, -280, -124, 1, #0d5eafff
+pendown
+goto, 280, -124, 1, #0d5eafff
+goto, 280, -155, 1, #0d5eafff
+goto, -280, -155, 1, #0d5eafff
+goto, -280, -124, 1, #0d5eafff
+endfill
+penup
+beginfill, #0D5EAF
+goto, -280, 140, 1, #0d5eafff
+pendown
+goto, -80, 140, 1, #0d5eafff
+goto, -80, -25, 1, #0d5eafff
+goto, -280, -25, 1, #0d5eafff
+goto, -280, 140, 1, #0d5eafff
+endfill
+penup
+beginfill, #FFFFFF
+goto, -280, 78, 1, #FFFFFF
+pendown
+goto, -80, 78, 1, #FFFFFF
+goto, -80, 37, 1, #FFFFFF
+goto, -280, 37, 1, #FFFFFF
+goto, -280, 78, 1, #FFFFFF
+endfill
+penup
+beginfill, #FFFFFF
+goto, -202, 140, 1, #FFFFFF
+pendown
+goto, -158, 140, 1, #FFFFFF
+goto, -158, -25, 1, #FFFFFF
+goto, -202, -25, 1, #FFFFFF
+goto, -202, 140, 1, #FFFFFF
+endfill
+penup
+
